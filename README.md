@@ -8,4 +8,5 @@ Canvas Size = 438x720
 Canvas Scale = 1:4
 
 Constant C = 0.3755-0.3697i
+
 ![julia-2026082101](examples/julia-2026082101.png)
