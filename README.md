@@ -32,3 +32,5 @@ Constant C = -0.4+0.6i
 ![l_system-2026062601](examples/l_system-2026062601.png)
 ### L_SYSTEM-2026090101
 ![l_system-2026090101](examples/l_system-2026090101.png)
+### L_SYSTEM-2026091001
+![l_system-2026091001](examples/l_system-2026091001.png)
