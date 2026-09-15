@@ -21,6 +21,13 @@ Canvas Scale = 1:1
 Constant C = -0.4+0.6i
 ```
 ![julia-2026091001](examples/julia-2026091001.png)
+### JULIA-GERTBUSCHMANNFULL
+```
+Canvas Size = 1280x720
+Canvas Scale = 1:1
+Constant C = -0.163+0.085i
+```
+![julia-GertBuschmannFull](examples/julia-GertBuschmannFull.png)
 ### JULIA_TUNED-2026090901
 ```
 Canvas Size = 438x720
